@@ -1,6 +1,6 @@
 ﻿using Intelektual_Tizimlar;
 
-var _service = new Service(SeedData.GetDataFromTextFile());
+var _service = new Service(SeedData.GetSeedData(1));
 var result = _service.Canculation();
 foreach(var group in result)
 {

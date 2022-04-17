@@ -11,29 +11,37 @@ namespace Intelektual_Tizimlar
         public static List<Koordinate> GetSeedData(int count)
         {
             var data = new List<Koordinate>();
-            data.Add(new Koordinate(new double[] { 1, 1 }, 1));
-            data.Add(new Koordinate(new double[] { 2, 2 }, 1));
-            data.Add(new Koordinate(new double[] { 3, 3 }, 1));
-            data.Add(new Koordinate(new double[] { 1, 3 }, 1));
-            data.Add(new Koordinate(new double[] { -1, 3 }, 1));
-            data.Add(new Koordinate(new double[] { 3, 4 }, 1));
-            data.Add(new Koordinate(new double[] { 2, 4 }, 1));
-            data.Add(new Koordinate(new double[] { 1, 4 }, 1));
-            data.Add(new Koordinate(new double[] { -1, 4 }, 1));
-            data.Add(new Koordinate(new double[] { 2, 5 }, 1));
-            data.Add(new Koordinate(new double[] { 1, 6 }, 1));
+            //data.Add(new Koordinate(new double[] { 1, 1 }, 1));
+            //data.Add(new Koordinate(new double[] { 2, 2 }, 1));
+            //data.Add(new Koordinate(new double[] { 3, 3 }, 1));
+            //data.Add(new Koordinate(new double[] { 1, 3 }, 1));
+            //data.Add(new Koordinate(new double[] { -1, 3 }, 1));
+            //data.Add(new Koordinate(new double[] { 3, 4 }, 1));
+            //data.Add(new Koordinate(new double[] { 2, 4 }, 1));
+            //data.Add(new Koordinate(new double[] { 1, 4 }, 1));
+            //data.Add(new Koordinate(new double[] { -1, 4 }, 1));
+            //data.Add(new Koordinate(new double[] { 2, 5 }, 1));
+            //data.Add(new Koordinate(new double[] { 1, 6 }, 1));
 
 
-            data.Add(new Koordinate(new double[] { 4, 1 }, 2));
-            data.Add(new Koordinate(new double[] { 3, 2 }, 2));
-            data.Add(new Koordinate(new double[] { 5, 2 }, 2));
-            data.Add(new Koordinate(new double[] { 7, 2 }, 2));
-            data.Add(new Koordinate(new double[] { 4, 3 }, 2));
-            data.Add(new Koordinate(new double[] { 6, 3 }, 2));
-            data.Add(new Koordinate(new double[] { 5, 4 }, 2));
-            data.Add(new Koordinate(new double[] { 7, 4 }, 2));
-            data.Add(new Koordinate(new double[] { 6, 5 }, 2));
-            data.Add(new Koordinate(new double[] { 7, 6 }, 2));
+            //data.Add(new Koordinate(new double[] { 4, 1 }, 2));
+            //data.Add(new Koordinate(new double[] { 3, 2 }, 2));
+            //data.Add(new Koordinate(new double[] { 5, 2 }, 2));
+            //data.Add(new Koordinate(new double[] { 7, 2 }, 2));
+            //data.Add(new Koordinate(new double[] { 4, 3 }, 2));
+            //data.Add(new Koordinate(new double[] { 6, 3 }, 2));
+            //data.Add(new Koordinate(new double[] { 5, 4 }, 2));
+            //data.Add(new Koordinate(new double[] { 7, 4 }, 2));
+            //data.Add(new Koordinate(new double[] { 6, 5 }, 2));
+            //data.Add(new Koordinate(new double[] { 7, 6 }, 2));
+
+            data.Add(new Koordinate(new double[] { 2, -1 }, 1));
+            data.Add(new Koordinate(new double[] { 12, 1 }, 1));
+            data.Add(new Koordinate(new double[] { 9, 11 }, 1));
+
+            data.Add(new Koordinate(new double[] { -11, -10 }, 2));
+            data.Add(new Koordinate(new double[] { 3, -9 }, 2));
+            data.Add(new Koordinate(new double[] { 0, -9 }, 2));
             return data;
         }
 

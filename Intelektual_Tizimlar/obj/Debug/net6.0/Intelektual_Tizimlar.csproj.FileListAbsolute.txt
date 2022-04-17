@@ -1,0 +1,16 @@
+D:\Github\Intelektual\Intelektual_Tizimlar\bin\Debug\net6.0\Intelektual_Tizimlar.exe
+D:\Github\Intelektual\Intelektual_Tizimlar\bin\Debug\net6.0\Data\kmeans.txt
+D:\Github\Intelektual\Intelektual_Tizimlar\bin\Debug\net6.0\Intelektual_Tizimlar.deps.json
+D:\Github\Intelektual\Intelektual_Tizimlar\bin\Debug\net6.0\Intelektual_Tizimlar.runtimeconfig.json
+D:\Github\Intelektual\Intelektual_Tizimlar\bin\Debug\net6.0\Intelektual_Tizimlar.dll
+D:\Github\Intelektual\Intelektual_Tizimlar\bin\Debug\net6.0\Intelektual_Tizimlar.pdb
+D:\Github\Intelektual\Intelektual_Tizimlar\obj\Debug\net6.0\Intelektual_Tizimlar.csproj.AssemblyReference.cache
+D:\Github\Intelektual\Intelektual_Tizimlar\obj\Debug\net6.0\Intelektual_Tizimlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Intelektual\Intelektual_Tizimlar\obj\Debug\net6.0\Intelektual_Tizimlar.AssemblyInfoInputs.cache
+D:\Github\Intelektual\Intelektual_Tizimlar\obj\Debug\net6.0\Intelektual_Tizimlar.AssemblyInfo.cs
+D:\Github\Intelektual\Intelektual_Tizimlar\obj\Debug\net6.0\Intelektual_Tizimlar.csproj.CoreCompileInputs.cache
+D:\Github\Intelektual\Intelektual_Tizimlar\obj\Debug\net6.0\Intelektual_Tizimlar.dll
+D:\Github\Intelektual\Intelektual_Tizimlar\obj\Debug\net6.0\refint\Intelektual_Tizimlar.dll
+D:\Github\Intelektual\Intelektual_Tizimlar\obj\Debug\net6.0\Intelektual_Tizimlar.pdb
+D:\Github\Intelektual\Intelektual_Tizimlar\obj\Debug\net6.0\Intelektual_Tizimlar.genruntimeconfig.cache
+D:\Github\Intelektual\Intelektual_Tizimlar\obj\Debug\net6.0\ref\Intelektual_Tizimlar.dll
