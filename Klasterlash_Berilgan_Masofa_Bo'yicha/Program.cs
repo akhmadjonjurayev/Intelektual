@@ -9,8 +9,8 @@ int countOfKoordinate = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Berilgan masofani kiriting : ");
 int distance = Convert.ToInt32(Console.ReadLine());
 
-var data = SeedData.GetRandomKoordinates(countOfSpace, countOfKoordinate);
-//var data = SeedData.GetSeedData();
+//var data = SeedData.GetRandomKoordinates(countOfSpace, countOfKoordinate);
+var data = SeedData.GetSeedData();
 int sequence = 0;
 foreach(var koordinate in data)
 {

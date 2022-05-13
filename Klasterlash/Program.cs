@@ -9,7 +9,8 @@ int countOfClass = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Nuqtalar sonini kiriting : ");
 int countOfKoordinates = Convert.ToInt32(Console.ReadLine());
 
-var data = SeedData.GetRandomKoordinates(spaceCount, countOfKoordinates);
+//var data = SeedData.GetRandomKoordinates(spaceCount, countOfKoordinates);
+var data = SeedData.GetSeedData();
 var centerKoordinations = new List<Koordinate>();
 for (int i = 0; i < countOfClass; i++)
 {

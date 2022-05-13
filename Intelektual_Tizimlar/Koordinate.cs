@@ -10,8 +10,8 @@ namespace Intelektual_Tizimlar
     {
         public Guid Id { get; set; } = Guid.NewGuid();
         public double[] Cor { get; set; }
-        public int Sequence { get; set; }
-        public Koordinate(double[] Cor,int Sequence)
+        public string Sequence { get; set; }
+        public Koordinate(double[] Cor,string Sequence)
         {
             this.Cor = Cor;
             this.Sequence = Sequence;

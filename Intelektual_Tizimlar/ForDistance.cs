@@ -12,6 +12,6 @@ namespace Intelektual_Tizimlar
 
         public double Distance { get; set; }
 
-        public int Sequence { get; set; }
+        public string Sequence { get; set; }
     }
 }

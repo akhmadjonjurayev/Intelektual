@@ -6,7 +6,8 @@ int spaceCount = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Nuqtalar sonini kiriting :");
 int pountCount = Convert.ToInt32(Console.ReadLine());
 
-var data = SeedData.GetRandomKoordinates(spaceCount, pountCount);
+//var data = SeedData.GetRandomKoordinates(spaceCount, pountCount);
+var data = SeedData.GetSeedData();
 
 var result = _service.K_Close_Neigbor_3(data);
 

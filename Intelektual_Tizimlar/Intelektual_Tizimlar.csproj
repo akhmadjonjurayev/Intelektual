@@ -8,6 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Update="Data\iris.data">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Data\kmeans.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

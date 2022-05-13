@@ -8,17 +8,16 @@ namespace Intelekt_Infrastructure.Service
         {
             var data = new List<Koordinate>();
 
-            data.Add(new Koordinate(new double[] { -6, 1 }, 0));
-            data.Add(new Koordinate(new double[] { 1, 12 }, 1));
-            data.Add(new Koordinate(new double[] { 12, -6 }, 1));
-            data.Add(new Koordinate(new double[] { 0, 1 }, 1));
-
-            data.Add(new Koordinate(new double[] { -6, -3 }, 2));
-            data.Add(new Koordinate(new double[] { -4, -2 }, 2));
-            data.Add(new Koordinate(new double[] { -8, 7 }, 2));
+            data.Add(new Koordinate(new double[] { 0, -11 }, 0));
+            data.Add(new Koordinate(new double[] { -6, 12 }, 0));
+            data.Add(new Koordinate(new double[] { -7, -11 }, 0));
+            data.Add(new Koordinate(new double[] { -5, -10 }, 0));
+            data.Add(new Koordinate(new double[] { -7, 11 }, 0));
+            data.Add(new Koordinate(new double[] { 7, 3 }, 0));
 
             return data;
         }
+
         public static List<Koordinate> GetDataFromTextFile()
         {
             var data = new List<Koordinate>();

@@ -8,7 +8,7 @@
             this._koordinates = koordinates; 
         }
 
-        public IEnumerable<IGrouping<int, Koordinate>> Canculation()
+        public IEnumerable<IGrouping<string, Koordinate>> Canculation()
         {
             var borders = new List<Koordinate>();
             foreach(var koordinate in _koordinates)
